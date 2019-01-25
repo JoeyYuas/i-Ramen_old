@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ramenTicket</string>
+    <string name="button">使っちゃう</string>
+    <string name="text">この日にラーメンポイントを使いますか？</string>
+    <string name="point">ラーメンポイント：%1$d</string>
+    <string name="howManyEat">"月に何回ラーメンを食べますか？"</string>
+    <string name="option">"設定"</string>
+
+
+    <string-array name="list">
+        <item>1回</item>
+        <item>2回</item>
+        <item>3回</item>
+        <item>4回</item>
+        <item>5回以上</item>
+</string-array>
+</resources>
